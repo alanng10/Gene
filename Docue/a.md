@@ -1,5 +1,7 @@
 # General
 
+General is can done goal.
+
 General is park general.
 
 General has park worth.
