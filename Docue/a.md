@@ -57,3 +57,5 @@ Gene has park cross.
 Gene has major.
 
 Gene has major on able.
+
+The word "gene" is park word for general.
