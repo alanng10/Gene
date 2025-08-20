@@ -1,59 +1,59 @@
-# General
+# Gene
 
-General is can done goal.
+Gene is can done goal.
 
-General is park general.
+Gene is park gene.
 
-General has park worth.
+Gene has park worth.
 
-General has park value.
+Gene has park value.
 
-General has park benefit.
+Gene has park benefit.
 
-General has park marry.
+Gene has park marry.
 
-General has park land.
+Gene has park land.
 
-General has park arch.
+Gene has park arch.
 
-General has park arch worth.
+Gene has park arch worth.
 
-General has park arch value.
+Gene has park arch value.
 
-General has park arch benefit.
+Gene has park arch benefit.
 
-General has park arch marry.
+Gene has park arch marry.
 
-General has park arch land.
+Gene has park arch land.
 
-General has park kind.
+Gene has park kind.
 
-General has park kind worth.
+Gene has park kind worth.
 
-General has park kind value.
+Gene has park kind value.
 
-General has park kind benefit.
+Gene has park kind benefit.
 
-General has park kind marry.
+Gene has park kind marry.
 
-General has park kind land.
+Gene has park kind land.
 
-General has park kind arch.
+Gene has park kind arch.
 
-General has park kind arch worth.
+Gene has park kind arch worth.
 
-General has park kind arch value.
+Gene has park kind arch value.
 
-General has park kind arch benefit.
+Gene has park kind arch benefit.
 
-General has park kind arch marry.
+Gene has park kind arch marry.
 
-General has park kind arch land.
+Gene has park kind arch land.
 
-General has park mark.
+Gene has park mark.
 
-General has park cross.
+Gene has park cross.
 
-General has major.
+Gene has major.
 
-General has major on able.
+Gene has major on able.
