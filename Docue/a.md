@@ -55,3 +55,5 @@ General has park mark.
 General has park cross.
 
 General has major.
+
+General has major on able.
