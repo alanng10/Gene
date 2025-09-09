@@ -58,4 +58,8 @@ Gene has major.
 
 Gene has major on able.
 
+Gene is not Can.
+
+Gene is for done.
+
 The word "gene" is park word for general.
