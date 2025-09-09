@@ -1,6 +1,6 @@
 # Gene
 
-Gene is can done goal.
+Gene is can done goal. 
 
 Gene is park gene.
 
