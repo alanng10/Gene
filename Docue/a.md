@@ -63,3 +63,10 @@ Gene is not Can.
 Gene is for done.
 
 The word "gene" is park word for general.
+
+Gene word has spell.
+The spell is:
+"G" for Gain Class.
+"e" for emit class.
+"n" for node done.
+"e" for effect radius.
