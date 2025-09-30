@@ -62,6 +62,8 @@ Gene is not Can.
 
 Gene is for done.
 
+Gene gene is most gene.
+
 The word "gene" is park word for general.
 
 Gene word has spell.
