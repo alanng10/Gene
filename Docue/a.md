@@ -62,6 +62,8 @@ Gene is not Can.
 
 Gene is for done.
 
+Gene is most true gain.
+
 Gene gene is most gene.
 
 The word "gene" is park word for general.
