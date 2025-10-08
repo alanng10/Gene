@@ -62,7 +62,7 @@ Gene is not Can.
 
 Gene is for done.
 
-Gene is most true gain.
+Gene gain is True.
 
 Gene gene is most gene.
 
