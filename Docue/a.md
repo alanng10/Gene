@@ -66,7 +66,7 @@ The word "gene" is park word for general.
 
 Gene word has spell.
 The spell is:
-"G" for Gain Class.
+"G" for Gain Mine.
 "e" for emit land.
 "n" for node done.
 "e" for effect radius.
